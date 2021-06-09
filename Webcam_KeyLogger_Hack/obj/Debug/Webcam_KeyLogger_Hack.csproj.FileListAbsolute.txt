@@ -1,0 +1,17 @@
+D:\Projects\CCHDCMD\Đồ án\Webcam_KeyLogger_Hack\Webcam_KeyLogger_Hack\bin\Debug\Webcam_KeyLogger_Hack.exe.config
+D:\Projects\CCHDCMD\Đồ án\Webcam_KeyLogger_Hack\Webcam_KeyLogger_Hack\bin\Debug\Webcam_KeyLogger_Hack.exe
+D:\Projects\CCHDCMD\Đồ án\Webcam_KeyLogger_Hack\Webcam_KeyLogger_Hack\bin\Debug\Webcam_KeyLogger_Hack.pdb
+D:\Projects\CCHDCMD\Đồ án\Webcam_KeyLogger_Hack\Webcam_KeyLogger_Hack\obj\Debug\Webcam_KeyLogger_Hack.ProjectInstaller.resources
+D:\Projects\CCHDCMD\Đồ án\Webcam_KeyLogger_Hack\Webcam_KeyLogger_Hack\obj\Debug\Webcam_KeyLogger_Hack.csproj.GenerateResource.cache
+D:\Projects\CCHDCMD\Đồ án\Webcam_KeyLogger_Hack\Webcam_KeyLogger_Hack\obj\Debug\Webcam_KeyLogger_Hack.csproj.CoreCompileInputs.cache
+D:\Projects\CCHDCMD\Đồ án\Webcam_KeyLogger_Hack\Webcam_KeyLogger_Hack\obj\Debug\Webcam_KeyLogger_Hack.exe
+D:\Projects\CCHDCMD\Đồ án\Webcam_KeyLogger_Hack\Webcam_KeyLogger_Hack\obj\Debug\Webcam_KeyLogger_Hack.pdb
+D:\Projects\CCHDCMD\Final_Project\Webcam_KeyLogger_Hack\Webcam_KeyLogger_Hack\bin\Debug\Webcam_KeyLogger_Hack.exe.config
+D:\Projects\CCHDCMD\Final_Project\Webcam_KeyLogger_Hack\Webcam_KeyLogger_Hack\bin\Debug\Webcam_KeyLogger_Hack.exe
+D:\Projects\CCHDCMD\Final_Project\Webcam_KeyLogger_Hack\Webcam_KeyLogger_Hack\bin\Debug\Webcam_KeyLogger_Hack.pdb
+D:\Projects\CCHDCMD\Final_Project\Webcam_KeyLogger_Hack\Webcam_KeyLogger_Hack\obj\Debug\Webcam_KeyLogger_Hack.ProjectInstaller.resources
+D:\Projects\CCHDCMD\Final_Project\Webcam_KeyLogger_Hack\Webcam_KeyLogger_Hack\obj\Debug\Webcam_KeyLogger_Hack.csproj.GenerateResource.cache
+D:\Projects\CCHDCMD\Final_Project\Webcam_KeyLogger_Hack\Webcam_KeyLogger_Hack\obj\Debug\Webcam_KeyLogger_Hack.csproj.CoreCompileInputs.cache
+D:\Projects\CCHDCMD\Final_Project\Webcam_KeyLogger_Hack\Webcam_KeyLogger_Hack\obj\Debug\Webcam_KeyLogger_Hack.exe
+D:\Projects\CCHDCMD\Final_Project\Webcam_KeyLogger_Hack\Webcam_KeyLogger_Hack\obj\Debug\Webcam_KeyLogger_Hack.pdb
+D:\Projects\CCHDCMD\Final_Project\Webcam_KeyLogger_Hack\Webcam_KeyLogger_Hack\obj\Debug\Webcam_KeyLogger_Hack.csprojAssemblyReference.cache

@@ -1,0 +1,55 @@
+﻿Installing assembly 'D:\Projects\CCHDCMD\Final_Project\Webcam_KeyLogger_Hack\Webcam_KeyLogger_Hack\bin\Debug\Webcam_KeyLogger_Hack.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Projects\CCHDCMD\Final_Project\Webcam_KeyLogger_Hack\Webcam_KeyLogger_Hack\bin\Debug\Webcam_KeyLogger_Hack.InstallLog
+   assemblypath = D:\Projects\CCHDCMD\Final_Project\Webcam_KeyLogger_Hack\Webcam_KeyLogger_Hack\bin\Debug\Webcam_KeyLogger_Hack.exe
+Installing service Service1...
+Creating EventLog source Service1 in log Application...
+Rolling back assembly 'D:\Projects\CCHDCMD\Final_Project\Webcam_KeyLogger_Hack\Webcam_KeyLogger_Hack\bin\Debug\Webcam_KeyLogger_Hack.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Projects\CCHDCMD\Final_Project\Webcam_KeyLogger_Hack\Webcam_KeyLogger_Hack\bin\Debug\Webcam_KeyLogger_Hack.InstallLog
+   assemblypath = D:\Projects\CCHDCMD\Final_Project\Webcam_KeyLogger_Hack\Webcam_KeyLogger_Hack\bin\Debug\Webcam_KeyLogger_Hack.exe
+Restoring event log to previous state for source Service1.
+Uninstalling assembly 'D:\Projects\CCHDCMD\Final_Project\Webcam_KeyLogger_Hack\Webcam_KeyLogger_Hack\bin\Debug\Webcam_KeyLogger_Hack.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Projects\CCHDCMD\Final_Project\Webcam_KeyLogger_Hack\Webcam_KeyLogger_Hack\bin\Debug\Webcam_KeyLogger_Hack.InstallLog
+   assemblypath = D:\Projects\CCHDCMD\Final_Project\Webcam_KeyLogger_Hack\Webcam_KeyLogger_Hack\bin\Debug\Webcam_KeyLogger_Hack.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Installing assembly 'D:\Projects\CCHDCMD\Final_Project\Webcam_KeyLogger_Hack\Webcam_KeyLogger_Hack\bin\Debug\Webcam_KeyLogger_Hack.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Projects\CCHDCMD\Final_Project\Webcam_KeyLogger_Hack\Webcam_KeyLogger_Hack\bin\Debug\Webcam_KeyLogger_Hack.InstallLog
+   assemblypath = D:\Projects\CCHDCMD\Final_Project\Webcam_KeyLogger_Hack\Webcam_KeyLogger_Hack\bin\Debug\Webcam_KeyLogger_Hack.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'D:\Projects\CCHDCMD\Final_Project\Webcam_KeyLogger_Hack\Webcam_KeyLogger_Hack\bin\Debug\Webcam_KeyLogger_Hack.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Projects\CCHDCMD\Final_Project\Webcam_KeyLogger_Hack\Webcam_KeyLogger_Hack\bin\Debug\Webcam_KeyLogger_Hack.InstallLog
+   assemblypath = D:\Projects\CCHDCMD\Final_Project\Webcam_KeyLogger_Hack\Webcam_KeyLogger_Hack\bin\Debug\Webcam_KeyLogger_Hack.exe
+Uninstalling assembly 'D:\Projects\CCHDCMD\Final_Project\Webcam_KeyLogger_Hack\Webcam_KeyLogger_Hack\bin\Debug\Webcam_KeyLogger_Hack.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Projects\CCHDCMD\Final_Project\Webcam_KeyLogger_Hack\Webcam_KeyLogger_Hack\bin\Debug\Webcam_KeyLogger_Hack.InstallLog
+   assemblypath = D:\Projects\CCHDCMD\Final_Project\Webcam_KeyLogger_Hack\Webcam_KeyLogger_Hack\bin\Debug\Webcam_KeyLogger_Hack.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Installing assembly 'D:\Projects\CCHDCMD\Final_Project\Webcam_KeyLogger_Hack\Webcam_KeyLogger_Hack\bin\Debug\Webcam_KeyLogger_Hack.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Projects\CCHDCMD\Final_Project\Webcam_KeyLogger_Hack\Webcam_KeyLogger_Hack\bin\Debug\Webcam_KeyLogger_Hack.InstallLog
+   assemblypath = D:\Projects\CCHDCMD\Final_Project\Webcam_KeyLogger_Hack\Webcam_KeyLogger_Hack\bin\Debug\Webcam_KeyLogger_Hack.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'D:\Projects\CCHDCMD\Final_Project\Webcam_KeyLogger_Hack\Webcam_KeyLogger_Hack\bin\Debug\Webcam_KeyLogger_Hack.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Projects\CCHDCMD\Final_Project\Webcam_KeyLogger_Hack\Webcam_KeyLogger_Hack\bin\Debug\Webcam_KeyLogger_Hack.InstallLog
+   assemblypath = D:\Projects\CCHDCMD\Final_Project\Webcam_KeyLogger_Hack\Webcam_KeyLogger_Hack\bin\Debug\Webcam_KeyLogger_Hack.exe
